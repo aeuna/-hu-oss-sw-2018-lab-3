@@ -1,2 +1,4 @@
-# -hu-oss-sw-2018-lab-3
-Hanyang Univ erica
+OSS SW Lab.
+===========
+
+ * 'Lee Eun Ah' 
